@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gsg",
+    "iei",
+    "gig"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_nugget"
+    },
+    "e": {
+      "item": "minecraft:emerald"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "s": {
+      "item": "soulharvest:stone_of_souls"
+    }
+  },
+  "result": {
+    "item": "soulharvest:ring_of_the_soul_reaper"
+  }
+}

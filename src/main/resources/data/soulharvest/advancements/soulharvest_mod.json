@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "soulharvest:ring_of_the_soul_reaper"
+    },
+    "title": {
+      "translate": "advancements.0th.soul.reaper"
+    },
+    "description": {
+      "translate": "description.0th.soul.reaper"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "minecraft:textures/block/stone.png"
+  },
+  "criteria": {
+    "ring": {
+      "trigger": "curios:equip_curio",
+      "conditions": {
+        "item": {
+          "item": "soulharvest:ring_of_the_soul_reaper"
+        }
+      }
+          }
+
+      }
+    }

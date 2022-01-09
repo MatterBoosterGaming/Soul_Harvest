@@ -1,0 +1,20 @@
+{
+  "item.soulharvest.ring_of_the_soul_reaper": "Ring of the Soul Reaper",
+  "item.soulharvest.stone_of_souls": "Stone of Souls",
+  "item.soulharvest.soul": "Soul",
+  "toolinfo.soulharvest.ring_of_the_soul_reaper.lore": "\u00A78\u00A7o\"The souls of the damned feed your inner lust for revenge....\"",
+  "toolinfo.soulharvest.ring_of_the_soul_reaper.ShiftDruecken": "Hold \u00A7eSHIFT\u00A7r for more Information.",
+  "toolinfo.soulharvest.ring_of_the_soul_reaper.information": "\u00A78Playerkills give Attackspeed",
+  "toolinfo.soulharvest.ring_of_the_soul_reaper.information1": "\u00A78Mob + Monster Kills give Attackdamage",
+  "advancements.0th.soul.reaper":	"You have become the Soul Reaper",
+  "description.0th.soul.reaper":	"From now on you can collect souls to gain Strength",
+ "advancements.1st.soul.reaper":	"You have become an low level Soul Reaper",
+  "description.1st.soul.reaper":	"You have slaughtered 100 Entities you have now awakened the Stone of Souls the first time",
+  "advancements.2nd.soul.reaper":	"You have become an intermediate level Soul Reaper",
+  "description.2nd.soul.reaper":	"You have slaughtered 1000 Entities you have now awakened the Stone of Souls the second time",
+  "advancements.3rd.soul.reaper":	"You have become an high level Soul Reaper",
+  "description.3rd.soul.reaper":	"You have slaughtered 10000 Entities you have now awakened the Stone of Souls the third and final time",
+  "advancements.4th.soul.reaper":	"You have become an god level Soul Reaper",
+  "description.4th.soul.reaper":	"You have slaughtered 1000000 Entities and you have ascended to a realm that no one knew existed."
+
+}

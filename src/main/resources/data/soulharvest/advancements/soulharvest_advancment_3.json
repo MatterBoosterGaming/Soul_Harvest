@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "soulharvest:ring_of_the_soul_reaper",
+      "nbt": "CustomModelData=10000"
+    },
+    "title": {
+      "translate": "advancements.3rd.soul.reaper"
+    },
+    "description": {
+      "translate": "description.3rd.soul.reaper"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "soulharvest:soulharvest_advancment_2",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "soulharvest:ring_of_the_soul_reaper",
+            "nbt": "CustomModelData>9999"
+          }
+        ]
+      }
+    }
+  }
+}

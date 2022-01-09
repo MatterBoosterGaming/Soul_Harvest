@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "soulharvest:ring_of_the_soul_reaper"
+    },
+    "title": {
+      "translate": "advancements.1st.soul.reaper"
+    },
+    "description": {
+      "translate": "description.1st.soul.reaper"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "soulharvest:soulharvest_mod",
+  "criteria": {
+    "requirement": {
+      "trigger": "curios:equip_curio",
+      "conditions": {
+        "items": [
+          {
+            "item": "soulharvest:ring_of_the_soul_reaper",
+            "nbt": "{CustomModelData:1}"
+          }
+        ]
+      }
+    }
+  }
+}
